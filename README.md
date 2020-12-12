@@ -1,1 +1,1 @@
-Run init and watch the magic unfold!
+Run init.sh and watch the magic unfold!
